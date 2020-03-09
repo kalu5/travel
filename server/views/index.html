@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="public/css/common.css" />
+    <link rel="stylesheet" href="public/css/index.css" /> 
+    <title>旅行App后台管理系统</title>
+</head>
+<body>
+    <div class="back-wrapper">
+        <div class="back-nav">
+            <nav class="nav">
+                <ul class="list">
+                    <li class="item">
+                        <a href="#">用户管理</a>
+                    </li>
+                    <li class="item">
+                        <a href="#">角色管理</a>
+                    </li>
+                    <li class="item">
+                        <a href="#">评论管理</a>
+                    </li>
+                    <li class="item">
+                        <a href="#">收藏管理</a>
+                    </li>
+                    <li class="item">
+                        <a href="#">关于</a>
+                    </li>
+                    <li class="item">
+                        <a href="#">趋势</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="back-content">
+            <header class="content-header">
+                <h1>旅行App后台管理系统</h1>
+            </header>
+            <div class="user-info">
+                <div class="title">
+                    <h2>用户信息表</h2>
+                </div>
+                <div class="add">
+                    <a href="#">增加</a>
+                </div>
+                <div class="content-list">
+                    <table border="1">
+                        <tbody>
+                            <tr>
+                                <th>#</th>
+                                <th>username</th>
+                                <th>password</th>
+                                <th>gender</th>
+                                <th>createTime</th>
+                                <th>lastModified</th>
+                                <th>status</th>
+                                <th>操作</th>
+                            </tr>
+                            {{each user}}
+                            <tr>
+                                <td>{{$index + 1}}</td>
+                                <td>{{$value.username}}</td>
+                                <td>{{$value.password}}</td>
+                                <td>{{$value.gender}}</td>
+                                <td>{{$value.createTime}}</td>
+                                <td>{{$value.lastModified}}</td>
+                                <td>{{$value.status}}</td>
+                                <td>
+                                    <a href="/students/edit?id={{$value._id}}" class="edit">编辑</a>
+                                    <a href="/students/remove?id={{$value._id}}" class="remove">删除</a>
+                                </td>
+                            </tr>
+                            {{/each}}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

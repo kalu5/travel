@@ -1,0 +1,189 @@
+{
+    "ret": true,
+    "data": {
+      "city": "重庆",
+      "weekHot": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b8/8daa3d65fffab965e9cbb8f2f0072a6c.water.jpg_200x200_d9e06b87.jpg",
+        "title": "南山一棵树观景台",
+        "price": "14"
+      },{
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/2001/5f/5f3e7e28809f9901a3.img.jpg_200x200_d12b3082.jpg",
+        "title": "金佛山西坡景区",
+        "price": "155"
+      },{
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201212/19/0cc0945930016de893835fbb.jpg_200x200_ffa657f8.jpg",
+        "title": "重庆永川香海温泉",
+        "price": "48.5"
+      }],
+      "swiperList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/5e/514ce60160e62602.jpg_750x200_9b0074e2.jpg"
+        },{
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/66/55bc874f100c2d02.jpg_750x200_ac7c05d2.jpg"
+        },{
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1807/c8/2948642fbc3b6802.jpg_750x200_1fc3179f.jpg"
+        },{
+          "id": "0004",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/4a/32f0550116232602.jpg_750x200_43525f4e.jpg"
+        }],
+      "iconsList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "description": "景点门票"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+          "description": "泡温泉"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+          "description": "一日游"
+        }, {
+          "id": "0004",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+          "description": "两江夜游"
+        }, {
+          "id": "0005",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/de711920c71e38287d9f95f7910aa1aa.png",
+          "description": "精品小团"
+        }, {
+          "id": "0006",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+          "description": "神秘武隆"
+        }, {
+          "id": "0007",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/338c5b924c5809e8c7b14f60a953c3e2.png",
+          "description": "重庆欢乐谷"
+        }, {
+          "id": "0008",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b71c1387a921ccf9c6edc7e8def3da90.png",
+          "description": "重庆动物园"
+        }, {
+          "id": "0009",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/5d502c0984b223bfeed0aac5ecdc7a99.png",
+          "description": "黑山谷"
+        }],
+      "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1609/bc/bcf475a02d6f99bfa3.water.jpg_200x200_0c843f40.jpg",
+        "tag": "可定明日",
+        "title": "龚滩古镇",
+        "commentNum": "383",
+        "price": "16",
+        "district": "酉阳县",
+        "tips": "这里最近很火哦，好多人都在点评它呢！"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1701/3b/3b0a0a09ff19de9ca3.img.jpg_200x200_5fc2d2f5.jpg",
+        "tag": "可定明日",
+        "title": "茅草坝滑雪场",
+        "commentNum": "49",
+        "price": "48",
+        "district": "奉节县",
+        "tips": "带给你新奇的雪上体验"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/71/716d25896ab78112a3.img.jpg_200x200_310e3afd.jpg",
+        "tag": "随买随用",
+        "title": "重庆彩色森林景区",
+        "commentNum": "1124586",
+        "price": "50",
+        "district": "巴南区",
+        "tips": ""
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/65/65407ff92ee23728a3.img.jpg_200x200_5836240a.jpg",
+        "tag": "可定明日",
+        "title": "蘑菇总动员",
+        "commentNum": "308",
+        "price": "30",
+        "district": "万盛区",
+        "tips": ""
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201212/19/0cc0945930016de893835fbb.jpg_200x200_ffa657f8.jpg",
+        "tag": "随买随用",
+        "title": "重庆永川香海温泉",
+        "commentNum": "203",
+        "price": "50",
+        "district": "永川区",
+        "tips": ""
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/c7/10966a238a1a6f9182cc246aa44d0a0d.water.jpg_200x200_0591763e.jpg",
+        "tag": "可定明日",
+        "title": "重庆3D魔幻艺术馆",
+        "commentNum": "1618",
+        "price": "25",
+        "district": "南岸区",
+        "tips": "近期小伙伴们收藏最！多！的景点😊"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/cf4edab60feda35e99ef52ffe6675b06.jpg_200x200_87c96b99.jpg",
+        "tag": "可定明日",
+        "title": "张关水溶洞",
+        "commentNum": "109",
+        "price": "80",
+        "district": "渝北区",
+        "tips": ""
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/ef/ef538bb8d9911483a3.img.jpg_200x200_dd73d5c7.jpg",
+        "tag": "可定明日",
+        "title": "酉阳桃花源",
+        "commentNum": "3840",
+        "price": "50",
+        "district": "酉阳县",
+        "tips": "🔥好评如潮，小伙伴热推景点~"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/06/72ad4ab179e769b3c8d65eac.jpg_200x200_4edd44d0.jpg",
+        "tag": "可定明日",
+        "title": "重庆奉节天坑地缝景区",
+        "commentNum": "1530",
+        "price": "24.5",
+        "district": "奉节县",
+        "tips": ""
+      }, {
+        "id": "00010",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201301/06/900289447fffdda493835fbb.jpg_200x200_ec8b22ca.jpg",
+        "tag": "可定明日",
+        "title": "神女峰",
+        "commentNum": "89",
+        "price": "115",
+        "district": "三峡云巅...",
+        "tips": "近期小伙伴们收藏最！多！的景点😊"
+      }],
+      "weekendList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1812/4c/33ad31d025fef.jpg_r_640x214_7821b813.jpg",
+          "title": "重庆夜景大赏",
+          "comment": "享巴渝特色，赏两江风光，感受不一样的重庆夜景！"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1505/5f/276ed6784d25ee.jpg_r_640x214_2193082e.jpg",
+          "title": "重庆优质汤泉",
+          "comment": "细数重庆哪些最赞的温泉"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1505/53/4bcd11cc3a5374.jpg_r_640x214_988a4cee.jpg",
+          "title": "重庆必打卡",
+          "comment": "重庆，非去不可"
+        }, {
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1506/1e/f97881dbd07520.jpg_r_640x214_f8c25916.jpg",
+            "title": "本人带你耍",
+            "comment": "玩转小面之都，High翻天"
+          }, {
+            "id": "0005",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/48/f117e9b3bf582a.jpg_r_640x214_b8145711.jpg",
+            "title": "重庆大美古镇",
+            "comment": "行走重庆最美古镇，让你瞬间穿越千年"
+          }]
+    }
+  }

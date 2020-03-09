@@ -1,0 +1,60 @@
+{
+    "ret": true,
+    "data": {
+      "sightName": "龚滩古镇(AAAA景区)",
+      "pictrueNum": "5",
+      "bannerImage": "//img1.qunarzz.com/sight/p0/1609/bc/bcf475a02d6f99bfa3.water.jpg_600x330_a008899d.jpg",
+      "galleryImages": [
+        {
+          "id": "01",
+          "imgUrl": "//img1.qunarzz.com/sight/p0/1609/bc/bcf475a02d6f99bfa3.water.jpg_600x330_a008899d.jpg"
+        },{
+          "id": "02",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201407/02/f590d776bc190c32452cb72538a964df.jpg_350x240_c35c69c1.jpg"
+        },{
+          "id": "03",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201407/02/236fd14d991d858d3ce8ab8ea0a2c630.jpg_350x240_4fad4bcc.jpg"
+        },{
+          "id": "04",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201407/02/d3ea740d18c60753d8746ced42836f03.jpg_350x240_1e342521.jpg"
+        },{
+          "id": "05",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/15e19d353241e51d3fd5353103d40521.jpg_350x240_4c88813c.jpg"
+        }
+      ],
+      "introList": [
+        {
+          "id": "001",
+          "score": "4.6",
+          "scoreTip": "很棒",
+          "comments": "383",
+          "method": "7",
+          "place": "重庆酉阳县龚滩古镇207号"
+        }
+      ],
+      "commentsList": [
+        {
+          "id": "01",
+          "name": "kaka",
+          "time": "2018-9-10",
+          "content": "这是一个很小众的古镇，很清静！据说有1800多年历史了，千年以前这里都是生意人的货物转运地，以盐业为主…很多木房子都有几百年历史了，而且保存的很好，现在很多也改造成客栈了，住在这些古老的房子里还真是别有一番风味…景区不大，两个小时基本足够了，但是既然来了，还是应该住上一晚，感受一下古镇的千年沧桑…古镇后面有个挺高的山，好像叫马鞍城（本地老人说的，不是很能听懂她们的方言）…体力允许的话也可以爬一下，上面有两个个亭子看日落超美…只不过山路基本没人走，基本处于荒废状态，所以一定要注意安全。还有一定要穿长裤，我当时穿短裤上去回来小腿全是伤。还有看日落一定要带手电筒，我下到山脚就九点了，而且有狗，一定要小心。我当时一个人就是硬着头皮拿根棍子摸黑下山的…而且上山的时候看到了很多石蒜花（西方国家叫做彼岸花）你们自己百度彼岸花吧…"
+        },
+        {
+          "id": "02",
+          "name": "kaku",
+          "time": "2019-9-10",
+          "content": "最美不过此地，最爱不过此景。"
+        }
+      ],
+      "tikitList": [
+        {
+          "id": "01",
+          "title": "门票",
+          "mTitle": "【随买随用】成人门票",
+          "yTitle": "【优惠人群】门票",
+          "mPrice": "16",
+          "yPrice": "8"
+        }
+      ]
+    }
+  }
